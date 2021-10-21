@@ -35,7 +35,7 @@ You can contributte by:
 
 ![clone](https://user-images.githubusercontent.com/39131303/138367692-1cdb12e5-03fe-4f6f-9081-f528954005c7.png)
 
-3.Do the changes in your local branch.
+3.Do the changes in your local branch and push to your forked repository.
 
 4.After fix the issue or add the funcionality (making sure everything is working fine), [create a pull request](https://github.com/kinkusuma/math-quiz/compare) to the main repository (Don't forget to link PR to issue if you are solving one):
 
